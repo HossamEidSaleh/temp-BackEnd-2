@@ -1,0 +1,81 @@
+[
+  { "id": 1, "fname": "hossam", "lname": "eid", "age": 20, "city": "benisuef" },
+  { "id": 2, "fname": "ahmed", "lname": "ali", "age": 21, "city": "cairo" },
+  {
+    "id": 3,
+    "fname": "mohamed",
+    "lname": "mustafa",
+    "age": 22,
+    "city": "giza"
+  },
+  { "id": 4, "fname": "ramadan", "lname": "ali", "age": 23, "city": "sina" },
+  {
+    "id": 6,
+    "fname": "islam",
+    "lname": "mohamed",
+    "age": 26,
+    "city": "mansoura"
+  },
+  { "id": 7, "fname": "hatem", "lname": "ali", "age": 27, "city": "sohag" },
+  { "id": 8, "fname": "ali", "lname": "yousef", "age": 28, "city": "minya" },
+  { "id": 9, "fname": "khaled", "lname": "ali", "age": 29, "city": "banha" },
+  { "id": 11, "fname": "hossam", "lname": "adel", "age": 31, "city": "alex" },
+  {
+    "id": 12,
+    "fname": "rady",
+    "lname": "hassan",
+    "age": 32,
+    "city": "kafr-alshaikh"
+  },
+  {
+    "id": 13,
+    "fname": "mustafa",
+    "lname": "nader",
+    "age": 33,
+    "city": "alghardaqa"
+  },
+  {
+    "id": 14,
+    "fname": "khaled",
+    "lname": "nady",
+    "age": 34,
+    "city": "alaqasr"
+  },
+  { "id": 15, "fname": "mohamed", "lname": "ali", "age": 35, "city": "qana" },
+  {
+    "id": 17,
+    "fname": "hamada",
+    "lname": "ragab",
+    "age": 37,
+    "city": "october"
+  },
+  {
+    "id": 20,
+    "fname": "islam",
+    "lname": "ali",
+    "age": 40,
+    "city": "aldaqahlia"
+  },
+  {
+    "id": 500,
+    "sub1": 50,
+    "sub2": 50,
+    "sub3": 50,
+    "sub4": 50,
+    "sub5": 50,
+    "sub6": 50,
+    "total": 300,
+    "avg": 50
+  },
+  {
+    "id": 500,
+    "sub1": 50,
+    "sub2": 50,
+    "sub3": 50,
+    "sub4": 50,
+    "sub5": 50,
+    "sub6": 0,
+    "total": 250,
+    "avg": 42
+  }
+]
